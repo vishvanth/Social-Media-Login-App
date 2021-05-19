@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sparks</string>
+
+    <string name="facebook_app_id">833138000634058</string>
+    <string name="fb_login_protocol_scheme">fb833138000634058</string>
+
+
+</resources>
